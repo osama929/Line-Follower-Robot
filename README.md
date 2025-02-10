@@ -1,4 +1,3 @@
-Here's an updated `README.md` with additional details:  
 
 ```markdown
 # IR Line Follower Robot
