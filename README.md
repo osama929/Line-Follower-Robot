@@ -3,7 +3,9 @@
 # IR Line Follower Robot
 
 ## Description
-This project is an **IR Line Follower Robot** built using an Arduino and the Adafruit Motor Shield. The robot follows a path using infrared sensors and controls its movement through DC motors. It is designed for educational purposes and robotics enthusiasts who want to learn about autonomous navigation.
+This project is an **IR Line Follower Robot** built using an Arduino and the Adafruit Motor Shield.
+The robot follows a path using infrared sensors and controls its movement through DC motors.
+It is designed for educational purposes and robotics enthusiasts who want to learn about autonomous navigation.
 
 ## Features
 - **IR Sensor-Based Line Detection**: Uses IR sensors to detect and follow a predefined path.
